@@ -1,23 +1,30 @@
-<!-- author: macdogiahuy -->
 # Quản lý vật liệu xây dựng
-Đồ án môn Lập trình hướng đối tượng sử dụng Java Swing + MySQL
-## Getting Started
 
-1. Tải source code về:
+Đây là môn lập trình java
 
-   ```bash
-   git clone https://github.com/macdogiahuy/Manager_Masterial_Building.git
-   ```
-2. Mở xampp và vào trang http://localhost/phpmyadmin/ tạo 1 database mới có tên là quanlivatlieuxaydung và import cơ sở dữ liệu trong folder database trong source code.
+## Mô tả
 
-3. Sử dụng netbeans 19 để chạy source code.
+Phần mềm quản lý vật liệu xây dựng hỗ trợ:
+- Quản lý nhập / xuất kho
+- Quản lý sản phẩm, nhà cung cấp
+- Quản lý tài khoản người dùng, phân quyền
 
-### Tài khoản ADMIN
-- Tài khoản: admin
-- Mật khẩu: 123456
+## Công nghệ
 
-### Tài khoản NHÂN VIÊN XUẤT NHẬP KHO
-- Tài khoản: trandat
-- Mật khẩu: 123456
--Tài Khoản: giahuy
-- Mật khẩu: 123456
+- **Java Swing** (Giao diện Desktop)
+- **MySQL** (XAMPP)
+- **Hibernate** (ORM)
+- **FlatLaf** (Giao diện đẹp)
+- scurity
+- iostream
+
+
+
+
+## Hướng dẫn
+
+Vui lòng tự cấu hình cơ sở dữ liệu và tài khoản admin theo nhu cầu.
+
+## Tác giả
+
+- Trần Thành Nhân
