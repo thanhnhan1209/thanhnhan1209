@@ -1,0 +1,72 @@
+thg 6 25, 2025 2:27:13 SA view.Admin <init>
+INFO: Đăng nhập Admin thành công với user: admin
+thg 6 25, 2025 2:28:51 SA view.ProductForm btnAddActionPerformed
+INFO: Người dùng đã nhấn Thêm sản phẩm
+thg 6 25, 2025 2:28:51 SA view.ProductForm btnAddActionPerformed
+INFO: Người dùng đã nhấn Xoá sản phẩm
+thg 6 25, 2025 2:28:51 SA view.ProductForm btnAddActionPerformed
+INFO: Người dùng đã nhấn Sửa sản phẩm
+thg 6 25, 2025 2:28:51 SA view.ProductForm btnAddActionPerformed
+INFO: Người dùng đã xem chi tiết sản phẩm
+thg 6 25, 2025 6:26:57 SA view.ProductForm jButton2ActionPerformed
+INFO: Bắt đầu nhập Excel sản phẩm.
+thg 6 25, 2025 6:27:26 SA view.ProductForm jButton2ActionPerformed
+WARNING: Người dùng huỷ chọn file Excel.
+thg 6 25, 2025 6:27:27 SA view.ProductForm jButton2ActionPerformed
+INFO: Bắt đầu nhập Excel sản phẩm.
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: CachAm1, Xốp cách âm
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach1, Gạch ốp
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach2, Gạch lót
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach3, Gạch nhỏ lát tường
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Ngoi1, Ngói đơn giản
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: NoiThat1, Sofa loại 1
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: TrangTri1, Đèn trần
+thg 6 25, 2025 6:27:39 SA view.ProductForm jButton2ActionPerformed
+INFO: Hoàn tất nhập Excel. Số sản phẩm đọc được: 7
+thg 6 25, 2025 6:31:23 SA view.Admin <init>
+INFO: Đăng nhập Admin thành công với user: admin
+thg 6 25, 2025 7:15:07 SA view.ProductForm jButton2ActionPerformed
+INFO: Bắt đầu nhập Excel sản phẩm.
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: CachAm1, Xốp cách âm
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach1, Gạch ốp
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach2, Gạch lót
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach3, Gạch nhỏ lát tường
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Ngoi1, Ngói đơn giản
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: NoiThat1, Sofa loại 1
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: TrangTri1, Đèn trần
+thg 6 25, 2025 7:15:29 SA view.ProductForm jButton2ActionPerformed
+INFO: Hoàn tất nhập Excel. Số sản phẩm đọc được: 7
+thg 6 25, 2025 8:47:43 SA view.Admin <init>
+INFO: Đăng nhập Admin thành công với user: admin
+thg 6 25, 2025 8:48:50 SA view.ProductForm jButton2ActionPerformed
+INFO: Bắt đầu nhập Excel sản phẩm.
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: CachAm1, Xốp cách âm
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach1, Gạch ốp
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach2, Gạch lót
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Gach3, Gạch nhỏ lát tường
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: Ngoi1, Ngói đơn giản
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: NoiThat1, Sofa loại 1
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Đã đọc sản phẩm từ Excel: TrangTri1, Đèn trần
+thg 6 25, 2025 8:49:08 SA view.ProductForm jButton2ActionPerformed
+INFO: Hoàn tất nhập Excel. Số sản phẩm đọc được: 7
